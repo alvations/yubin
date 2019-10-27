@@ -2,6 +2,13 @@
 
 Converts Japanese address in raw string to structured object.
 
+Install
+====
+
+```python
+pip install -U yubin
+```
+
 Usage
 ====
 
